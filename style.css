@@ -3,3 +3,38 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+}
+
+nav {
+  text-align: center;
+}
+
+nav a {
+  padding: 10px;
+  text-align: center;
+  background-color: aqua;
+}
+
+p {
+  font-size: 12px;
+  text-align: center;
+}
+
+#featured-property {
+  width: 800px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.background {
+  width: 25%;
+  text-align: center;
+  background-color: red;
+}
+
+#footer {
+  float: left;
+}
